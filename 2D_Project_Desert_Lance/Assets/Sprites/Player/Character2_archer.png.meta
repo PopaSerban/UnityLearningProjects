@@ -1,0 +1,5575 @@
+fileFormatVersion: 2
+guid: 8693c1b8108c1436c9a1c414600aa0b6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3063442954759895309
+    second: Character2_archer_0
+  - first:
+      213: 9145350419715552
+    second: Character2_archer_1
+  - first:
+      213: -5630816366893669867
+    second: Character2_archer_2
+  - first:
+      213: -407259530127316989
+    second: Character2_archer_3
+  - first:
+      213: -7438795505313926585
+    second: Character2_archer_4
+  - first:
+      213: -306034605839703497
+    second: Character2_archer_5
+  - first:
+      213: 1861075383585709349
+    second: Character2_archer_6
+  - first:
+      213: -3230750864674253777
+    second: Character2_archer_7
+  - first:
+      213: -6973171008634623735
+    second: Character2_archer_8
+  - first:
+      213: 7167543180047456860
+    second: Character2_archer_9
+  - first:
+      213: 4253872591889058802
+    second: Character2_archer_10
+  - first:
+      213: 8913754355862100100
+    second: Character2_archer_11
+  - first:
+      213: -5406166154053952198
+    second: Character2_archer_12
+  - first:
+      213: -1128096535494059778
+    second: Character2_archer_13
+  - first:
+      213: 2478649417364509123
+    second: Character2_archer_14
+  - first:
+      213: 1203662926197627275
+    second: Character2_archer_15
+  - first:
+      213: -3666941600006872139
+    second: Character2_archer_16
+  - first:
+      213: -1823202488772928998
+    second: Character2_archer_17
+  - first:
+      213: -7416085965677106962
+    second: Character2_archer_18
+  - first:
+      213: 6129602882790998967
+    second: Character2_archer_19
+  - first:
+      213: 493457893011390394
+    second: Character2_archer_20
+  - first:
+      213: 7143476969883030034
+    second: Character2_archer_21
+  - first:
+      213: 3486614955313628790
+    second: Character2_archer_22
+  - first:
+      213: 1564728002782997823
+    second: Character2_archer_23
+  - first:
+      213: 6200242247364379849
+    second: Character2_archer_24
+  - first:
+      213: -4706056595770622742
+    second: Character2_archer_25
+  - first:
+      213: -3515642464326755328
+    second: Character2_archer_26
+  - first:
+      213: 1452627236944289675
+    second: Character2_archer_27
+  - first:
+      213: -4600415212437862739
+    second: Character2_archer_28
+  - first:
+      213: 5448287972661052192
+    second: Character2_archer_29
+  - first:
+      213: -1210963557911360685
+    second: Character2_archer_30
+  - first:
+      213: -6981425007896523663
+    second: Character2_archer_31
+  - first:
+      213: 3935677305744723278
+    second: Character2_archer_32
+  - first:
+      213: -4677218237246573791
+    second: Character2_archer_33
+  - first:
+      213: 1039173737398121308
+    second: Character2_archer_34
+  - first:
+      213: -734888588795748435
+    second: Character2_archer_35
+  - first:
+      213: 7041265505761070942
+    second: Character2_archer_36
+  - first:
+      213: 1520504196939829952
+    second: Character2_archer_37
+  - first:
+      213: -1271375567477622694
+    second: Character2_archer_38
+  - first:
+      213: -1462884923928832014
+    second: Character2_archer_39
+  - first:
+      213: -7083800397024073464
+    second: Character2_archer_40
+  - first:
+      213: -6756738622083380446
+    second: Character2_archer_41
+  - first:
+      213: 2344690758010926538
+    second: Character2_archer_42
+  - first:
+      213: 5740464314172737329
+    second: Character2_archer_43
+  - first:
+      213: 4783464375551054374
+    second: Character2_archer_44
+  - first:
+      213: -7682230181525295917
+    second: Character2_archer_45
+  - first:
+      213: -4094256470490921076
+    second: Character2_archer_46
+  - first:
+      213: -3940518507745505669
+    second: Character2_archer_47
+  - first:
+      213: 8236169918556640465
+    second: Character2_archer_48
+  - first:
+      213: 324358635827318324
+    second: Character2_archer_49
+  - first:
+      213: -3173014818472682689
+    second: Character2_archer_50
+  - first:
+      213: -4585058092578213105
+    second: Character2_archer_51
+  - first:
+      213: 737381684785194599
+    second: Character2_archer_52
+  - first:
+      213: -5825392456862210104
+    second: Character2_archer_53
+  - first:
+      213: 7188365271079277179
+    second: Character2_archer_54
+  - first:
+      213: -2582504246233934476
+    second: Character2_archer_55
+  - first:
+      213: 6013688265035032412
+    second: Character2_archer_56
+  - first:
+      213: 7718916225959624728
+    second: Character2_archer_57
+  - first:
+      213: -7050467907414056147
+    second: Character2_archer_58
+  - first:
+      213: 5902679967254717635
+    second: Character2_archer_59
+  - first:
+      213: -3530604450256843429
+    second: Character2_archer_60
+  - first:
+      213: -494932240881502992
+    second: Character2_archer_61
+  - first:
+      213: 7564603830346587950
+    second: Character2_archer_62
+  - first:
+      213: -1014689392031558459
+    second: Character2_archer_63
+  - first:
+      213: -8470905760074595964
+    second: Character2_archer_64
+  - first:
+      213: -6340114205410466230
+    second: Character2_archer_65
+  - first:
+      213: -2948278643941545545
+    second: Character2_archer_66
+  - first:
+      213: 6147244587744285397
+    second: Character2_archer_67
+  - first:
+      213: -9049608092131062416
+    second: Character2_archer_68
+  - first:
+      213: 7853336654473408538
+    second: Character2_archer_69
+  - first:
+      213: 1534937185727176714
+    second: Character2_archer_70
+  - first:
+      213: -5422852845828291701
+    second: Character2_archer_71
+  - first:
+      213: 8491169029826662753
+    second: Character2_archer_72
+  - first:
+      213: 2417279126056710182
+    second: Character2_archer_73
+  - first:
+      213: -5313895861133911134
+    second: Character2_archer_74
+  - first:
+      213: 7194995991457609098
+    second: Character2_archer_75
+  - first:
+      213: 4248014363386073112
+    second: Character2_archer_76
+  - first:
+      213: -3114660453446430363
+    second: Character2_archer_77
+  - first:
+      213: -189929494024797335
+    second: Character2_archer_78
+  - first:
+      213: -304650432200743838
+    second: Character2_archer_79
+  - first:
+      213: 6776294450170717697
+    second: Character2_archer_80
+  - first:
+      213: 1586623237138817757
+    second: Character2_archer_81
+  - first:
+      213: 7737914115499365871
+    second: Character2_archer_82
+  - first:
+      213: -1103810492539898771
+    second: Character2_archer_83
+  - first:
+      213: 4677193371652770202
+    second: Character2_archer_84
+  - first:
+      213: -3451775243700568392
+    second: Character2_archer_85
+  - first:
+      213: 5961905880351823972
+    second: Character2_archer_86
+  - first:
+      213: 1006824532217099431
+    second: Character2_archer_87
+  - first:
+      213: -3647416881488218964
+    second: Character2_archer_88
+  - first:
+      213: 2896224887762041594
+    second: Character2_archer_89
+  - first:
+      213: 375424297070670038
+    second: Character2_archer_90
+  - first:
+      213: -2785743311137280798
+    second: Character2_archer_91
+  - first:
+      213: 8184371478737695064
+    second: Character2_archer_92
+  - first:
+      213: 4690078528919645400
+    second: Character2_archer_93
+  - first:
+      213: 7643256384559585077
+    second: Character2_archer_94
+  - first:
+      213: 8428050149583024790
+    second: Character2_archer_95
+  - first:
+      213: 5540954834618807344
+    second: Character2_archer_96
+  - first:
+      213: -3090899322938492494
+    second: Character2_archer_97
+  - first:
+      213: 5571730768840438359
+    second: Character2_archer_98
+  - first:
+      213: 2754292025095887408
+    second: Character2_archer_99
+  - first:
+      213: -3369787518194718446
+    second: Character2_archer_100
+  - first:
+      213: 6955165519583229018
+    second: Character2_archer_101
+  - first:
+      213: -6706534172149132523
+    second: Character2_archer_102
+  - first:
+      213: -2381532750434602133
+    second: Character2_archer_103
+  - first:
+      213: -6757855105905510786
+    second: Character2_archer_104
+  - first:
+      213: -6048478889818376195
+    second: Character2_archer_105
+  - first:
+      213: 4455612634851268076
+    second: Character2_archer_106
+  - first:
+      213: -3187581943229374183
+    second: Character2_archer_107
+  - first:
+      213: 6681239679110060952
+    second: Character2_archer_108
+  - first:
+      213: -6737573240283061480
+    second: Character2_archer_109
+  - first:
+      213: 6379059824936889378
+    second: Character2_archer_110
+  - first:
+      213: 2961525317070685008
+    second: Character2_archer_111
+  - first:
+      213: -6203445387499932118
+    second: Character2_archer_112
+  - first:
+      213: -3593116126660729927
+    second: Character2_archer_113
+  - first:
+      213: -8129016691773432362
+    second: Character2_archer_114
+  - first:
+      213: 486051969298055874
+    second: Character2_archer_115
+  - first:
+      213: 8713696927521229615
+    second: Character2_archer_116
+  - first:
+      213: 8699993758445200173
+    second: Character2_archer_117
+  - first:
+      213: 3618699479832630244
+    second: Character2_archer_118
+  - first:
+      213: -1541077271518302612
+    second: Character2_archer_119
+  - first:
+      213: 8333529714984220720
+    second: Character2_archer_120
+  - first:
+      213: 1961557805660913013
+    second: Character2_archer_121
+  - first:
+      213: 7757720166594954316
+    second: Character2_archer_122
+  - first:
+      213: -8768134606313305767
+    second: Character2_archer_123
+  - first:
+      213: 407842581470041875
+    second: Character2_archer_124
+  - first:
+      213: -1499348972062346152
+    second: Character2_archer_125
+  - first:
+      213: 187068016114696948
+    second: Character2_archer_126
+  - first:
+      213: 2678064335653856554
+    second: Character2_archer_127
+  - first:
+      213: 2135806996324901809
+    second: Character2_archer_128
+  - first:
+      213: 3851079211264270440
+    second: Character2_archer_129
+  - first:
+      213: 3259829953583297893
+    second: Character2_archer_130
+  - first:
+      213: -5703140073290112452
+    second: Character2_archer_131
+  - first:
+      213: 8010662185521083093
+    second: Character2_archer_132
+  - first:
+      213: 4821182040534658175
+    second: Character2_archer_133
+  - first:
+      213: 2083069320024293000
+    second: Character2_archer_134
+  - first:
+      213: -1461950327360737532
+    second: Character2_archer_135
+  - first:
+      213: 8237876262566178407
+    second: Character2_archer_136
+  - first:
+      213: -5373149945481902424
+    second: Character2_archer_137
+  - first:
+      213: 7401186752709921287
+    second: Character2_archer_138
+  - first:
+      213: 2100063400263679901
+    second: Character2_archer_139
+  - first:
+      213: 7296047033496445698
+    second: Character2_archer_140
+  - first:
+      213: -1321794246127547408
+    second: Character2_archer_141
+  - first:
+      213: -9185302036807214472
+    second: Character2_archer_142
+  - first:
+      213: 3559393350313004634
+    second: Character2_archer_143
+  - first:
+      213: -2761539113043976088
+    second: Character2_archer_144
+  - first:
+      213: -4986492695944649137
+    second: Character2_archer_145
+  - first:
+      213: -6142261954611355501
+    second: Character2_archer_146
+  - first:
+      213: 6473842211754524646
+    second: Character2_archer_147
+  - first:
+      213: 3229014439804301238
+    second: Character2_archer_148
+  - first:
+      213: 6804950568304667007
+    second: Character2_archer_149
+  - first:
+      213: 8249673788224622665
+    second: Character2_archer_150
+  - first:
+      213: -4881687627244782792
+    second: Character2_archer_151
+  - first:
+      213: -6208233387422203488
+    second: Character2_archer_152
+  - first:
+      213: -699547317387444044
+    second: Character2_archer_153
+  - first:
+      213: 4767369548390704285
+    second: Character2_archer_154
+  - first:
+      213: 8172706228873691440
+    second: Character2_archer_155
+  - first:
+      213: 1195928725907265797
+    second: Character2_archer_156
+  - first:
+      213: -6197395466676977528
+    second: Character2_archer_157
+  - first:
+      213: -2476137642276694808
+    second: Character2_archer_158
+  - first:
+      213: 790291767165980038
+    second: Character2_archer_159
+  - first:
+      213: 3350166497527420985
+    second: Character2_archer_160
+  - first:
+      213: 7276111200223446965
+    second: Character2_archer_161
+  - first:
+      213: -2250259256885607660
+    second: Character2_archer_162
+  - first:
+      213: 9062947736127243895
+    second: Character2_archer_163
+  - first:
+      213: -5892314467489907833
+    second: Character2_archer_164
+  - first:
+      213: 8726887196764927860
+    second: Character2_archer_165
+  - first:
+      213: -2449836733455864206
+    second: Character2_archer_166
+  - first:
+      213: 3756243800942748020
+    second: Character2_archer_167
+  - first:
+      213: -3598144676112593994
+    second: Character2_archer_168
+  - first:
+      213: 931180434500025100
+    second: Character2_archer_169
+  - first:
+      213: -8140770693888579253
+    second: Character2_archer_170
+  - first:
+      213: 4420958747817232151
+    second: Character2_archer_171
+  - first:
+      213: -7553534893220146619
+    second: Character2_archer_172
+  - first:
+      213: 3026813617128845485
+    second: Character2_archer_173
+  - first:
+      213: 4473907688426252227
+    second: Character2_archer_174
+  - first:
+      213: -2768857612212468911
+    second: Character2_archer_175
+  - first:
+      213: 1913122417991954383
+    second: Character2_archer_176
+  - first:
+      213: -3614316359974984708
+    second: Character2_archer_177
+  - first:
+      213: 1386446368695099565
+    second: Character2_archer_178
+  - first:
+      213: -2927039242603341050
+    second: Character2_archer_179
+  - first:
+      213: 6681923495564826163
+    second: Character2_archer_180
+  - first:
+      213: 4368329103729374483
+    second: Character2_archer_181
+  - first:
+      213: -8683920111213236813
+    second: Character2_archer_182
+  - first:
+      213: 8872313767990354251
+    second: Character2_archer_183
+  - first:
+      213: 141635354056562746
+    second: Character2_archer_184
+  - first:
+      213: 3732017106102273348
+    second: Character2_archer_185
+  - first:
+      213: 5027711045270657817
+    second: Character2_archer_186
+  - first:
+      213: -66197951934509775
+    second: Character2_archer_187
+  - first:
+      213: -1263285766693639690
+    second: Character2_archer_188
+  - first:
+      213: 1954993016028715242
+    second: Character2_archer_189
+  - first:
+      213: 757322055610630394
+    second: Character2_archer_190
+  - first:
+      213: 8256547685476209755
+    second: Character2_archer_191
+  - first:
+      213: 4627751524848512668
+    second: Character2_archer_192
+  - first:
+      213: 6181063681516317584
+    second: Character2_archer_193
+  - first:
+      213: -4304869947722449031
+    second: Character2_archer_194
+  - first:
+      213: -5272827629881209060
+    second: Character2_archer_195
+  - first:
+      213: -3851743590738583533
+    second: Character2_archer_196
+  - first:
+      213: -7314226019923686633
+    second: Character2_archer_197
+  - first:
+      213: -3710465874824374286
+    second: Character2_archer_198
+  - first:
+      213: 4405973907505085473
+    second: Character2_archer_199
+  - first:
+      213: 932509710415114962
+    second: Character2_archer_200
+  - first:
+      213: 2970305310293008942
+    second: Character2_archer_201
+  - first:
+      213: -1402401858726576312
+    second: Character2_archer_202
+  - first:
+      213: -7646962595785586228
+    second: Character2_archer_203
+  - first:
+      213: -5707171205124700026
+    second: Character2_archer_204
+  - first:
+      213: 4855954911449368585
+    second: Character2_archer_205
+  - first:
+      213: -7326891502570379057
+    second: Character2_archer_206
+  - first:
+      213: 4377199616490829829
+    second: Character2_archer_207
+  - first:
+      213: -5429060879522051792
+    second: Character2_archer_208
+  - first:
+      213: -3716737352238330807
+    second: Character2_archer_209
+  - first:
+      213: -1068880594515063281
+    second: Character2_archer_210
+  - first:
+      213: 4769615400628805847
+    second: Character2_archer_211
+  - first:
+      213: 3234696753206494986
+    second: Character2_archer_212
+  - first:
+      213: -6043842843067939078
+    second: Character2_archer_213
+  - first:
+      213: 5889388448137019192
+    second: Character2_archer_214
+  - first:
+      213: 3766035797225844544
+    second: Character2_archer_215
+  - first:
+      213: -2697028383203008663
+    second: Character2_archer_216
+  - first:
+      213: 7119906669633273336
+    second: Character2_archer_217
+  - first:
+      213: 728508645558698677
+    second: Character2_archer_218
+  - first:
+      213: -8430347297105683150
+    second: Character2_archer_219
+  - first:
+      213: -9093489848545489064
+    second: Character2_archer_220
+  - first:
+      213: 5327887051423014924
+    second: Character2_archer_221
+  - first:
+      213: -4693302138744908025
+    second: Character2_archer_222
+  - first:
+      213: -6685162195579543493
+    second: Character2_archer_223
+  - first:
+      213: -8759224116135226436
+    second: Character2_archer_224
+  - first:
+      213: 8323551193299991011
+    second: Character2_archer_225
+  - first:
+      213: -5634168583937327901
+    second: Character2_archer_226
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Character2_archer_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1110
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be729dda256744f55840c0efa9c224c5
+      internalID: -3063442954759895309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1110
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a676e8b27153d420c9058861ba575fd5
+      internalID: 9145350419715552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1110
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83c0b54fda694160ab19a501cb2186c
+      internalID: -5630816366893669867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1110
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41051faf89fcc4a71b62a01936c542ef
+      internalID: -407259530127316989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1110
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04980d435a54349abbc20a55796f99eb
+      internalID: -7438795505313926585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1110
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932d2d2fa44f24b7ea42148fbd8d012e
+      internalID: -306034605839703497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad717da7fc404396be01a5d4bfa10d9
+      internalID: 1861075383585709349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_7
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1080
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5cf9705553264ab59f69219fdb3a9ed
+      internalID: -3230750864674253777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_8
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1080
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f5c6b4fd4ff43a39ea0b01d157e5de
+      internalID: -6973171008634623735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_9
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1080
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155016c2ef5034a7a813a868de25b673
+      internalID: 7167543180047456860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_10
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1080
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef47e7ed138b4f57941622e08faa333
+      internalID: 4253872591889058802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_11
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1080
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361da3e51f4914967b30261007555127
+      internalID: 8913754355862100100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1050
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555c31772ae1c420cb2ed9a13ad5e1c6
+      internalID: -5406166154053952198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_13
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1050
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0142838dfcf8e417bb47f48a08673681
+      internalID: -1128096535494059778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_14
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1050
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee7ec9fbe2ec47e7a45b8e70defa68c
+      internalID: 2478649417364509123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_15
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1050
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9743ea5fc41430893d5ed8f79b2877
+      internalID: 1203662926197627275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_16
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1050
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabefa5ad6b18400c8fe6a95c9b88622
+      internalID: -3666941600006872139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_17
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1050
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1574e638e4894fd280f3269b34988d4
+      internalID: -1823202488772928998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1020
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6ec7930e8974202bf1be6d5b8142d7
+      internalID: -7416085965677106962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_19
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1020
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c30a421f9974db1aeca47764825da1
+      internalID: 6129602882790998967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_20
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1020
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae77f12668d4406c9b29a02387fb509
+      internalID: 493457893011390394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_21
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1020
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c177fc1d15a43e7bc933633c2018c2
+      internalID: 7143476969883030034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_22
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1020
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2546c1efa654ae9b2223a8fab2a8cd
+      internalID: 3486614955313628790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_23
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1020
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf908b59502a4489bb26c815d1783c5
+      internalID: 1564728002782997823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 990
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f173dd9a3b26d48a298166c3896f492c
+      internalID: 6200242247364379849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 990
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4bab044c5444042b4e0d43ce048bfa
+      internalID: -4706056595770622742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_26
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 990
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e661cafe6d5804c2b993088d7d10e67b
+      internalID: -3515642464326755328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_27
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 990
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d9d7b31fdc34017969910d4c26e95b
+      internalID: 1452627236944289675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 990
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005ff72e65d9b4a24950b2e498a5c94f
+      internalID: -4600415212437862739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_29
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 990
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14f2904102b046d0841f9ab1f72015a
+      internalID: 5448287972661052192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46735fa0fed844c8d8af1c3fa4f67fe5
+      internalID: -1210963557911360685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_31
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 960
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a88a592b2f24e1883167e23e85e97b
+      internalID: -6981425007896523663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_32
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 960
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f545ff0425c643c88fcc72acb1f135d
+      internalID: 3935677305744723278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_33
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 960
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ab782b768404663aa59ac6ae127054
+      internalID: -4677218237246573791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_34
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 960
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317aa7e7b1bb645c3ae8a79f82ccbbd3
+      internalID: 1039173737398121308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_35
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 960
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593a4cacd0835428ba9c0c14ac81206f
+      internalID: -734888588795748435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 930
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68a49ac344894e93885255c5296d024
+      internalID: 7041265505761070942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_37
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 930
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ace7e2d94e445cbb97d92eec815dcc
+      internalID: 1520504196939829952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_38
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 930
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7272ca95c70024d49bb8a621ca9be871
+      internalID: -1271375567477622694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_39
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 930
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32e855daba164b47a86a0f51b159b0b
+      internalID: -1462884923928832014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_40
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 930
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872ff4447a5684455ab07cc70cfac0d1
+      internalID: -7083800397024073464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_41
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 930
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c999892455004b73bc126f830711b87
+      internalID: -6756738622083380446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61114a0616bfc46d6ab844a146c5e836
+      internalID: 2344690758010926538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_43
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 900
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1969177a16b748809ff2809267fe390
+      internalID: 5740464314172737329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_44
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 900
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92085f4d47b649c09fb5b19558eae28
+      internalID: 4783464375551054374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_45
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 900
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29905be425e3647ba9ac6be54e7e4938
+      internalID: -7682230181525295917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_46
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 900
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601bf7b2bbae542c39a0c7fdbd86f7e1
+      internalID: -4094256470490921076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_47
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 900
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60a22422068f449e998e8f541f96c53
+      internalID: -3940518507745505669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 870
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e116bc6ddb74c038d6f74cc486a649
+      internalID: 8236169918556640465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_49
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 870
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582504452e1914967b1f4e5ef51a7380
+      internalID: 324358635827318324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_50
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 870
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb33610e465a47ea9c3ca7bf5a8c63c
+      internalID: -3173014818472682689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_51
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 870
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294208f62d81c47cfbb583d302facd76
+      internalID: -4585058092578213105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_52
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 870
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a91ebffa4604bbe876805f6e4ddf73
+      internalID: 737381684785194599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_53
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 870
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028779caebf5844eb87cd251f8ea96ca
+      internalID: -5825392456862210104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 840
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bbebea6d42e426cb819397b7d288fc
+      internalID: 7188365271079277179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_55
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 840
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8c5e847f99f4ced8c520470c2b4251
+      internalID: -2582504246233934476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_56
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 840
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fb0f1b140d44f5bac8519c8d107c14
+      internalID: 6013688265035032412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_57
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 840
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d4337eb90ad418aab5a31868af5f50
+      internalID: 7718916225959624728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_58
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 840
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6955007350eeb4cc2a5f39368b524afc
+      internalID: -7050467907414056147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_59
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 840
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c1c3fa3bf2b440fb11af22bf560597
+      internalID: 5902679967254717635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 810
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836fa38022050460d88ad746d18faf51
+      internalID: -3530604450256843429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_61
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 810
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93085bf59add4fec8e0e8efdc57f0f6
+      internalID: -494932240881502992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_62
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 810
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b530b64ba2b8d49cdbdf50c35e804481
+      internalID: 7564603830346587950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_63
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 810
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79586986a222c4b52abf00a4b8abdacc
+      internalID: -1014689392031558459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_64
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 810
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66dde93403ca94ccbb6fd52db8d42dd0
+      internalID: -8470905760074595964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_65
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 810
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de06d6ccc8794c318a440f98aed3736
+      internalID: -6340114205410466230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 780
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9182dcdc299774b5f9df3fb39e8ddbe2
+      internalID: -2948278643941545545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_67
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 780
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048c050dc39654827ae64742715b4fe8
+      internalID: 6147244587744285397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_68
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 780
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fd19a9efa4c4e7bbdaf8a2cac1e14e
+      internalID: -9049608092131062416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_69
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 780
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fe2cbc4f0fd4ecd8aa3995b0f7f3f4
+      internalID: 7853336654473408538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_70
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 780
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f2b88ebbdf2490386e2aa91f0c0ce5
+      internalID: 1534937185727176714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_71
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 780
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74cca6058d5904f6e95cd3404def50e9
+      internalID: -5422852845828291701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 750
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b267eaf2ed74e6fa08b4f37cdf971c
+      internalID: 8491169029826662753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_73
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 750
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2eea97830eaa4317b0746b071d0b0b0
+      internalID: 2417279126056710182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_74
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 750
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52d6eae0279547f3b3785969057f3f4
+      internalID: -5313895861133911134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_75
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 750
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10da4aa4111c744e9962f2a534fba3ce
+      internalID: 7194995991457609098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_76
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 750
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96580a2c89e0f405ea80bfd051147ab2
+      internalID: 4248014363386073112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_77
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 750
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d282f58d00fd74944b9f30b6d7657ced
+      internalID: -3114660453446430363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af84439be5a814419aa62b18552f7c85
+      internalID: -189929494024797335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_79
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 720
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aafd126d094d495fa192cad8bb8754d
+      internalID: -304650432200743838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_80
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 720
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4971fb5d8c2bd40d8b5ac7b79f01c47e
+      internalID: 6776294450170717697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_81
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 720
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca3f19abc3514ec19a3eeba91492f1e
+      internalID: 1586623237138817757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_82
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 720
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aacd423f1523e4e04ba9c21bba66c0b1
+      internalID: 7737914115499365871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_83
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 720
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d30ea72feeae498fa140a1552f88774
+      internalID: -1103810492539898771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 690
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab157e4ca3b64050b4f9b492630f4ba
+      internalID: 4677193371652770202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_85
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 690
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592cb7a065f694072a59e042f1e16774
+      internalID: -3451775243700568392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_86
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 690
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0070f712206f5428c9d6679f429d8f62
+      internalID: 5961905880351823972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_87
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 690
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1854a71b84d694c36bf8aa3ad190e71b
+      internalID: 1006824532217099431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_88
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 690
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ced9549b71e24036b58e73f6ca78da1
+      internalID: -3647416881488218964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_89
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 690
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3ee84e72f2843ee8918cd23f0d0320
+      internalID: 2896224887762041594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 660
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23487e054392149b39ade64902f77e76
+      internalID: 375424297070670038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_91
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 660
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23675d588becf48889049dff4841d3da
+      internalID: -2785743311137280798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_92
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 660
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9429bc80568c414e9b9d21bb301b03f
+      internalID: 8184371478737695064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_93
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 660
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9a6180ea34b4b4c9e803a8d990e489
+      internalID: 4690078528919645400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_94
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 660
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd2083b639134c38b697ee3cc3d925a
+      internalID: 7643256384559585077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_95
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 660
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acff25ea1295949e2abb17304a1661ea
+      internalID: 8428050149583024790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 630
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7460b4415f23e46a5bc91922e014aeff
+      internalID: 5540954834618807344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_97
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 630
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4180424fe97f4b8aa801e024731597a
+      internalID: -3090899322938492494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_98
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 630
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f894de21be5494de6902040bb9f5e076
+      internalID: 5571730768840438359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_99
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 630
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ea970de3d3c4baaa67e840ba43a155
+      internalID: 2754292025095887408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_100
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 630
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ceee3846b3a42bfada21c6a104562d
+      internalID: -3369787518194718446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_101
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 630
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29439a7a45b69400e8debd6145fd42f0
+      internalID: 6955165519583229018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e495693cd2ad74eb8b6a8f89e751eef5
+      internalID: -6706534172149132523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_103
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 600
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633dd0a36b5194417a976ec770badf8b
+      internalID: -2381532750434602133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_104
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 600
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7355932f600d49ffa09f6aa6e19800d
+      internalID: -6757855105905510786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_105
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 600
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fc9ab1a7c3448d8ba0b5bf9c969bb1
+      internalID: -6048478889818376195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_106
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 600
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ae36016473e4bb6819b7c6d6d15f40
+      internalID: 4455612634851268076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_107
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 600
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2412a08664a54c6fb019b3f4234f140
+      internalID: -3187581943229374183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 570
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a6ff2d6e18b49d198ab154b480819f
+      internalID: 6681239679110060952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_109
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 570
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb8929ab0af747008115db0b37fad5b
+      internalID: -6737573240283061480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_110
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 570
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247d140179ff742aaaff4520b76f261d
+      internalID: 6379059824936889378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_111
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 570
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46af817398df4432a06f43be8717638
+      internalID: 2961525317070685008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_112
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 570
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8daed8841c5f14371a581d01fa7dab46
+      internalID: -6203445387499932118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_113
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 570
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da07423348c514c878bb6e65d069eaaf
+      internalID: -3593116126660729927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1952c60b353374c2eb9c2a5b8ae3998f
+      internalID: -8129016691773432362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_115
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 540
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690575b79a7d6477fa4670d2bf282e96
+      internalID: 486051969298055874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_116
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 540
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6720a396bd741e5af201b06443324d
+      internalID: 8713696927521229615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_117
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 540
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a605724bfef4334bf2097e760163ae
+      internalID: 8699993758445200173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_118
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 540
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659460cf9d4014037a888eb96b95952f
+      internalID: 3618699479832630244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_119
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 540
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d84b2dff35e4a9ebe0156e4ac19ba9
+      internalID: -1541077271518302612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 510
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1301f74a2b44655950c942abcde427
+      internalID: 8333529714984220720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_121
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 510
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a64d1b881b048ed996a5b7f7f95afd
+      internalID: 1961557805660913013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_122
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 510
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c1836b79c414fc7b5ab5607b8c39e5
+      internalID: 7757720166594954316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_123
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 510
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78405b274076140fdb48ecd79dc74621
+      internalID: -8768134606313305767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_124
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 510
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73f5ccd90ec54540998487e71a5aa93
+      internalID: 407842581470041875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_125
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 510
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f085f77f4a8c1458884a1edf58a3985e
+      internalID: -1499348972062346152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03bbb71f0ddb47c4b0ca7d57de2b666
+      internalID: 187068016114696948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_127
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 480
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce3dd2c0b56245d1b1c4f82008aa687
+      internalID: 2678064335653856554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_128
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 480
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10aa2c3f2de3044cf89787f15a3b1a72
+      internalID: 2135806996324901809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_129
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 480
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce08a5492ce34ec28cbb820550430d3
+      internalID: 3851079211264270440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_130
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 480
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64aa9637c95f440bcb196de9b7f04672
+      internalID: 3259829953583297893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_131
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 480
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbbc9cce1e5d4038809138133b79764
+      internalID: -5703140073290112452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f6c60b1c6904becae5793395b13a70
+      internalID: 8010662185521083093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_133
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 450
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65f34dfbbdde4a79a7b4b8034385e07
+      internalID: 4821182040534658175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_134
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 450
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9f4787e81d64efc8a9b6b9cbdb1fc0
+      internalID: 2083069320024293000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_135
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 450
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05113f929e21642218e1a90fc9fa97b2
+      internalID: -1461950327360737532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_136
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 450
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06d8a7a2c5814b109f1c77507e8a4e3
+      internalID: 8237876262566178407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_137
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 450
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec84eb831ad2f47b1b4781831bf22ae2
+      internalID: -5373149945481902424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_138
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b12f51081ad54b91a54b46203c62318
+      internalID: 7401186752709921287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_139
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 420
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5946f17e0be1f40d9bcb99f0ea19ea62
+      internalID: 2100063400263679901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_140
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 420
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd04c5b5fad14798b8cc427435fe5b4
+      internalID: 7296047033496445698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_141
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 420
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ba032dbc6c642a1b19f353e611dad0
+      internalID: -1321794246127547408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_142
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 420
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060cdffcc9c1d483d857d0403ca64128
+      internalID: -9185302036807214472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_143
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 420
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1156a748482904d6eadffa3688d429a5
+      internalID: 3559393350313004634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 390
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215b91698474148eebbe99b24e62105b
+      internalID: -2761539113043976088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_145
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 390
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8b9f4a5290f49e39e4951fd2ec3cd7
+      internalID: -4986492695944649137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_146
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 390
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a954aab3a7e4d3485e03efc58a313f
+      internalID: -6142261954611355501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_147
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 390
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0016c25ab1c74ff8ad4f391985ed09a
+      internalID: 6473842211754524646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_148
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 390
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45823429954e04777a8aa2c5a72a8d11
+      internalID: 3229014439804301238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_149
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 390
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee61009f00a494900b822536f160618b
+      internalID: 6804950568304667007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ad01e4023aa44279b53f36a151d62a
+      internalID: 8249673788224622665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_151
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 360
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2b311d333694ac4b7e9e114c4d0b1b
+      internalID: -4881687627244782792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_152
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 360
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1484104cb44f94566a674febb156f311
+      internalID: -6208233387422203488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_153
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 360
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e526efe093e84ed797cb739ea7ec3e2
+      internalID: -699547317387444044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_154
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 360
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd085ab9f3b9e4193b2db8b55f0f7a09
+      internalID: 4767369548390704285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_155
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 360
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7468205d19c1a4e47b7ab849baecd4f0
+      internalID: 8172706228873691440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 330
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f059ef3a4cd4d1c9a91fc01567c07c
+      internalID: 1195928725907265797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_157
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 330
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a163c1c1e50477f8c17b151e759fc0
+      internalID: -6197395466676977528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_158
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 330
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73065a4d3e0b345b1a737687e588c1f4
+      internalID: -2476137642276694808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_159
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 330
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fd5abf7926f47489db8af374909a19
+      internalID: 790291767165980038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_160
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 330
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc7af0a301984e1d82daf1f72caf831
+      internalID: 3350166497527420985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_161
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 330
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ca77c5ee14a46ff8a93f517278b75f
+      internalID: 7276111200223446965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_162
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cbb1dce75914959bfd29d6d0c2f488
+      internalID: -2250259256885607660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_163
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 300
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50d8320df47f45dca32646369dbd29e
+      internalID: 9062947736127243895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_164
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 300
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0acb13fd4652d4c66a62f0292f4f1695
+      internalID: -5892314467489907833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_165
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 300
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9819f31cc8374929865209bb3183a1a
+      internalID: 8726887196764927860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_166
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 300
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e498b191310454abf93843698bf6c8
+      internalID: -2449836733455864206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_167
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 300
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd94b22dbaffa4b5c94079cc96af08d8
+      internalID: 3756243800942748020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3176d92664e642f3aefa547fb902fb1
+      internalID: -3598144676112593994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_169
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 270
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d95a8c2dc8841ab9066fff060a037e
+      internalID: 931180434500025100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_170
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 270
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2621f858e80564edebb7d7e87c284d64
+      internalID: -8140770693888579253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_171
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 270
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76c0aa67a161460aa7cce8406e1520b
+      internalID: 4420958747817232151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_172
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 270
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54ec3830cc9f4334b46c23f30276760
+      internalID: -7553534893220146619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_173
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 270
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a64ed420de6458c8cf7b8efcc4fab5
+      internalID: 3026813617128845485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_174
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2e66945f6f3443ab29cea8fc3d462a
+      internalID: 4473907688426252227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_175
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 240
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28e5dc5302854f36842cff0356fc773
+      internalID: -2768857612212468911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_176
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 240
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4387bd9bf8c4f4140a8e3c7e31402dd6
+      internalID: 1913122417991954383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_177
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 240
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544b48d824c17496d951e6ae321f3655
+      internalID: -3614316359974984708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_178
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 240
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8986377e6914d1d9368ba831f5277d
+      internalID: 1386446368695099565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_179
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 240
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518b3c3f4eb294e6da0b4f12623ba898
+      internalID: -2927039242603341050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53eee5b2b6c96431e83bc921e582a19b
+      internalID: 6681923495564826163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_181
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 210
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3bb3e0fe8944991ae164e1dce0c879
+      internalID: 4368329103729374483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_182
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 210
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50946921df594d9dbc59b2ea5a24d4a
+      internalID: -8683920111213236813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_183
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 210
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432f7ad351a22495cac6e5bd7e73ea24
+      internalID: 8872313767990354251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_184
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 210
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6ae71d6873b4476b9861599401c57a
+      internalID: 141635354056562746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_185
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 210
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808b8fbed9aa349ea999ed25c490c328
+      internalID: 3732017106102273348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_186
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078870ea43edd431e8b6844b6a647c1d
+      internalID: 5027711045270657817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_187
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 180
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6ff89b6ab7b4fb0bb689c71baa2608
+      internalID: -66197951934509775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_188
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 180
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0857ee1c3764a48b28dd366b1ac82e41
+      internalID: -1263285766693639690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_189
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 180
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816f9b689de6e45cbbe6957a339e1573
+      internalID: 1954993016028715242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_190
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 180
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f857ee4a8d4840b0985622d936b936f
+      internalID: 757322055610630394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_191
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 180
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ca64a26b31a40c581c05d958911d71
+      internalID: 8256547685476209755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5d1660ca84d496ba4c57d84285747c
+      internalID: 4627751524848512668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_193
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 150
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66b4c759661e424d9ad4104a5f17f7c
+      internalID: 6181063681516317584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_194
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 150
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9579d6b06d454ec3b2586f7d2dd2046
+      internalID: -4304869947722449031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_195
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 150
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c03de5307a59401a9751ba9217e4b40
+      internalID: -5272827629881209060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_196
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 150
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99cc0882822cc4849ba0fb02f0e68290
+      internalID: -3851743590738583533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_197
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 150
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421691484eda7460093efcff4f500062
+      internalID: -7314226019923686633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_198
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80d9faf0f7644ec498537bae2d0197d
+      internalID: -3710465874824374286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_199
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 120
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad10296ba1df46a4b142786b2af1750
+      internalID: 4405973907505085473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_200
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 120
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c61352fc33f41db8f2d376c30abb3b
+      internalID: 932509710415114962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_201
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 120
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d1ca5e5a7184a279f3bbaf301e0c17
+      internalID: 2970305310293008942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_202
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2907170449a4c3ab7cdcb2d9324d4b
+      internalID: -1402401858726576312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_203
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 120
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575f2dfbc56734eeba5d99b2c41785b5
+      internalID: -7646962595785586228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_204
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82baee2e07d9a470a8779b900d89a097
+      internalID: -5707171205124700026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_205
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 90
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425663e6dd45544d8aad737d16d81133
+      internalID: 4855954911449368585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_206
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 90
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675380158e08d41a6b50d72721eb4702
+      internalID: -7326891502570379057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_207
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 90
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628783ba645c14f2fa24bbb4d4bd575e
+      internalID: 4377199616490829829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_208
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 90
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0f76056f4394291800cd1792e2cc6a
+      internalID: -5429060879522051792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_209
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 90
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083d738efe44e43cca095a94eb52578d
+      internalID: -3716737352238330807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e193e14a5223d4efd9ec668549c24c78
+      internalID: -1068880594515063281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_211
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 60
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59efb91b422f3480690a5a7fdebd077d
+      internalID: 4769615400628805847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_212
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e8749177f954b8ba5e2b76b865349b
+      internalID: 3234696753206494986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_213
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 60
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33be07397926b45d3bb9ea4739ec595f
+      internalID: -6043842843067939078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_214
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 60
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c65f11ab1ff4a6899f057b46cd292a
+      internalID: 5889388448137019192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_215
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 60
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633cf6b16042a4a2baee0d4b129e9c26
+      internalID: 3766035797225844544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_216
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9ddfd66d39a4f69aee21329384724e
+      internalID: -2697028383203008663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_217
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 30
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa88c456288b4feda26c61b69bcb0e1
+      internalID: 7119906669633273336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_218
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 30
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286a41c6058024a81b415f81667225f6
+      internalID: 728508645558698677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_219
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 30
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b959b1f8cc54b999235935fba58b9d
+      internalID: -8430347297105683150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_220
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 30
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b0ae3dbe78749858b5e20b291929b5
+      internalID: -9093489848545489064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_221
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 30
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a335d1fcaed5f47a181732271f67db78
+      internalID: 5327887051423014924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_222
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c2ed953d4bf4aed9cde1f5a79d290f
+      internalID: -4693302138744908025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_223
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51360b89a3bfe434cbdfa14913586612
+      internalID: -6685162195579543493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_224
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a3d92eb24c146a3a9bcc01134d2c1c
+      internalID: -8759224116135226436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_225
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a06942b82f14dd995cb99dbe6e85dd
+      internalID: 8323551193299991011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2_archer_226
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4316838bf4f148d18387f6aa1c80e4a
+      internalID: -5634168583937327901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9803179d57ed8486ea364211f5b2046f, type: 3}
+  m_Name: Helmet
+  m_EditorClassIdentifier: 
+  id: ef0d9ca6b33564a3c865ec268745b5d4
+  ItemName: Helmet
+  Icon: {fileID: -7296337056529428220, guid: 0187a252c09734a75913f2066452ed33, type: 3}
+  MaximumStacks: 1
+  FireResistanceBonus: 0
+  WaterResistanceBonus: 0
+  AirResistanceBonus: 0
+  EarthResistanceBonus: 0
+  FireResistancePercentBonus: 1
+  WaterResistancePercentBonus: 1
+  AirResistancePercentBonus: 1
+  EarthResistancePercentBonus: 1
+  equipmentType: 0

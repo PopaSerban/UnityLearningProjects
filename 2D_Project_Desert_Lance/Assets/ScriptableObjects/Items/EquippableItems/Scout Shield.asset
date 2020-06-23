@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9803179d57ed8486ea364211f5b2046f, type: 3}
+  m_Name: Scout Shield
+  m_EditorClassIdentifier: 
+  id: f9544d3c4f69f438db2aa7ca98fd26a8
+  ItemName: Scout Shield
+  Icon: {fileID: -2974785909338221766, guid: 0187a252c09734a75913f2066452ed33, type: 3}
+  MaximumStacks: 1
+  FireResistanceBonus: 0
+  WaterResistanceBonus: 2
+  AirResistanceBonus: 4
+  EarthResistanceBonus: 3
+  FireResistancePercentBonus: 0.01
+  WaterResistancePercentBonus: 0
+  AirResistancePercentBonus: 0.05
+  EarthResistancePercentBonus: 0
+  equipmentType: 2
